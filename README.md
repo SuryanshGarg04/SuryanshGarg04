@@ -70,8 +70,6 @@ Some areas I've worked on:
   <b>Go</b> &nbsp; • &nbsp; <b>Java</b>
 </p>
 
----
-
 ### ☁️ Cloud Native & DevOps
 
 <p align="center">
@@ -85,9 +83,7 @@ Some areas I've worked on:
   <b>Linux</b>
 </p>
 
----
-
-### 🔧 Backend & Developer Tools
+### 🔧 Tools & Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postgres,mysql" />
@@ -113,23 +109,9 @@ Some areas I've worked on:
 
 My current open-source work is primarily around the **Meshery ecosystem**.
 
-I like working on problems involving:
+I'm particularly interested in:
 
-```text
-Concurrency
-    ↓
-Lifecycle handling
-    ↓
-Failure paths
-    ↓
-Validation
-    ↓
-Testing
-    ↓
-Reliability
-```
-
-There's something satisfying about finding a bug that only happens under exactly the wrong sequence of events.
+`Concurrency` • `Lifecycle Handling` • `Failure Paths` • `Validation` • `Testing` • `Reliability`
 
 ---
 
@@ -149,12 +131,6 @@ There's something satisfying about finding a bug that only happens under exactly
 
 ## 📊 GitHub Activity
 
-### 🕐 When I'm Most Active
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuryanshGarg04&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 ### 📈 Last 2 Months
 
 <p align="center">
@@ -170,7 +146,19 @@ There's something satisfying about finding a bug that only happens under exactly
 
 ---
 
-## 🐛 Developer Experience
+## 🤡 Developer Life
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
+</p>
+
+> **"It works on my machine."**
+
+The universal debugging strategy.
+
+---
+
+## 🐛 Debugging at 2 AM
 
 ```text
 "This should be a quick fix."
@@ -208,14 +196,36 @@ Find the bug
 "Ah."
 ```
 
-And the classic:
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420">
+</p>
+
+---
+
+## 💀 The Development Cycle
 
 ```text
-Works locally        ✅
-Works in CI          ✅
-Reviewer finds bug   ❌
-
-             👁️👄👁️
+Write code
+    ↓
+Run tests
+    ↓
+Tests fail
+    ↓
+Fix code
+    ↓
+Tests pass
+    ↓
+Push
+    ↓
+CI fails
+    ↓
+Fix CI
+    ↓
+Reviewer finds something else
+    ↓
+Fix that
+    ↓
+Merge 🎉
 ```
 
 ---
