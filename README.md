@@ -60,25 +60,52 @@ Some areas I've worked on:
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go,java" />
 </p>
 
-### Cloud Native & DevOps
+<p align="center">
+  <b>Go</b> &nbsp; • &nbsp; <b>Java</b>
+</p>
 
-<p>
+---
+
+### ☁️ Cloud Native & DevOps
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,linux" />
 </p>
 
-### Tools & Backend
+<p align="center">
+  <b>Kubernetes</b> &nbsp; • &nbsp;
+  <b>Docker</b> &nbsp; • &nbsp;
+  <b>GitHub Actions</b> &nbsp; • &nbsp;
+  <b>Linux</b>
+</p>
 
-<p>
+---
+
+### 🔧 Backend & Developer Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,postgres,mysql" />
 </p>
 
-`REST APIs` `Cobra` `Viper` `JSON Schema` `Go Concurrency`
+<p align="center">
+  <b>Git</b> &nbsp; • &nbsp;
+  <b>PostgreSQL</b> &nbsp; • &nbsp;
+  <b>MySQL</b>
+</p>
+
+<p align="center">
+  <b>REST APIs</b> &nbsp; • &nbsp;
+  <b>Cobra</b> &nbsp; • &nbsp;
+  <b>Viper</b> &nbsp; • &nbsp;
+  <b>JSON Schema</b> &nbsp; • &nbsp;
+  <b>Go Concurrency</b>
+</p>
 
 ---
 
@@ -128,23 +155,17 @@ There's something satisfying about finding a bug that only happens under exactly
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuryanshGarg04&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 Last 2 Months
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&theme=github-compact&hide_border=true" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuryanshGarg04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&theme=github-compact&days=60&hide_border=true&area=true" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryanshGarg04&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshGarg04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuryanshGarg04&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -229,7 +250,7 @@ Reviewer finds bug   ❌
 
 ### CNCF Meshery — Open Source Contributor
 
-Contributing across Meshery Server, mesheryctl, meshkit and schemas.
+Contributing across **Meshery Server, mesheryctl, meshkit and schemas**.
 
 ### ElevateLabs — DevOps Engineer Intern
 
