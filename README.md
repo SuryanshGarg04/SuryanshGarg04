@@ -131,14 +131,9 @@ I'm particularly interested in:
 
 ## 📊 GitHub Activity
 
-### 📈 Contribution Graph
+📈 Last 60 Days
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/SuryanshGarg04"
-    alt="SuryanshGarg04 GitHub contribution graph"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&days=60&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity%20%E2%80%94%20Last%2060%20Days" alt="GitHub activity over the last 60 days" /> </p>
 
 ### 📊 GitHub Stats
 
