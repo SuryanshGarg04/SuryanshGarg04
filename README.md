@@ -139,7 +139,7 @@ I'm particularly interested in:
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight"
+    [src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight"](https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&days=60&theme=github-compact&hide_border=true&area=true)
     height="180"
   />
   <img
