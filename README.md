@@ -131,18 +131,28 @@ I'm particularly interested in:
 
 ## 📊 GitHub Activity
 
-### 📈 Last 2 Months
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&theme=github-compact&days=60&hide_border=true&area=true" />
+  <img
+    src="https://ghchart.rshah.org/SuryanshGarg04"
+    alt="SuryanshGarg04 GitHub contribution graph"
+  />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuryanshGarg04&theme=tokyonight" height="180"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuryanshGarg04&theme=tokyonight"
+    height="180"
+  />
 </p>
+
 
 ---
 
