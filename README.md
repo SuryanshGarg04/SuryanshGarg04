@@ -2,179 +2,175 @@
 
 ### Go • Cloud Native • Open Source
 
-I'm a software engineering student and **CNCF Meshery contributor** focused on Go backend development and cloud-native technologies.
+I'm a software engineering student and **CNCF Meshery contributor** focused on backend development, cloud-native systems, and open-source engineering.
 
-I enjoy working on real codebases, understanding how systems behave, and fixing the bugs that usually hide in the edge cases.
-
----
-
-## 💼 Open to Roles
-
-I'm open to opportunities aligned with my current experience and interests:
-
-* 🐹 **Go Backend Engineer**
-* ☁️ **Cloud-Native Engineer**
-* 💻 **Backend Software Engineer**
-* ⚙️ **DevOps / Cloud Engineer**
-* 🌐 **Open Source / Platform Engineering**
-
-Especially interested in teams working with **Go, Kubernetes, cloud infrastructure, developer tooling, and open source**.
+I like working on the parts of software that aren't obvious at first glance — **concurrency, lifecycle handling, failure paths, validation, and reliability**.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I Do
 
-### 🌐 CNCF Meshery
+**Go Backend Development**
+Building and debugging backend systems, APIs, CLIs, and concurrent workflows.
 
-I contribute across:
+**Cloud Native Engineering**
+Working with Kubernetes, containers, CI/CD, and cloud-native tooling.
 
-**Meshery Server • mesheryctl • meshkit • schemas**
+**Open Source**
+Contributing to real production codebases, reviewing changes, investigating failures, and improving tests and documentation.
+
+---
+
+## 🌐 Open Source
+
+### CNCF Meshery
+
+My primary open-source work is within the **Meshery ecosystem**, contributing across:
+
+`Meshery Server` • `mesheryctl` • `meshkit` • `schemas`
 
 Some areas I've worked on:
 
 * 🔄 Connection state-machine lifecycle handling
 * 🧵 Concurrency and asynchronous event handling
 * 🛑 Cancellation and shared-state edge cases
-* 🛡️ Error-code allocation validation
-* 🛠️ mesheryctl component filtering
+* 🛡️ Validation and error-code handling
 * 📐 Recursive JSON Schema validation
+* 🛠️ CLI filtering and behavior
 * 🧪 Regression and failure-path testing
+* 🔍 Debugging and code review
 * 📚 Contributor documentation
-* 🔍 Debugging and code reviews
 
----
-
-## 🏅 Meshery Badges
+### 🏅 Meshery
 
 <p align="center">
   <a href="https://cloud.layer5.io/user/49aec3dc-c9e5-4d55-bfde-7ab2dc3f1599?tab=badges&badge=first-design">
-    <img width="175" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
+    <img width="170" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://cloud.layer5.io/user/49aec3dc-c9e5-4d55-bfde-7ab2dc3f1599?tab=badges&badge=certified-meshery-contributor">
-    <img width="175" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+    <img width="170" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,java" />
 </p>
 
+### Cloud Native
+
 <p align="center">
-  <b>Go</b> &nbsp; • &nbsp; <b>Java</b>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,githubactions" />
 </p>
 
-### ☁️ Cloud Native & DevOps
+### Backend & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,linux" />
-</p>
-
-<p align="center">
-  <b>Kubernetes</b> &nbsp; • &nbsp;
-  <b>Docker</b> &nbsp; • &nbsp;
-  <b>GitHub Actions</b> &nbsp; • &nbsp;
-  <b>Linux</b>
-</p>
-
-### 🔧 Tools & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 <p align="center">
-  <b>Git</b> &nbsp; • &nbsp;
-  <b>PostgreSQL</b> &nbsp; • &nbsp;
-  <b>MySQL</b>
-</p>
-
-<p align="center">
-  <b>REST APIs</b> &nbsp; • &nbsp;
-  <b>Cobra</b> &nbsp; • &nbsp;
-  <b>Viper</b> &nbsp; • &nbsp;
-  <b>JSON Schema</b> &nbsp; • &nbsp;
+  <b>REST APIs</b> •
+  <b>Cobra</b> •
+  <b>Viper</b> •
+  <b>JSON Schema</b> •
   <b>Go Concurrency</b>
 </p>
 
 ---
 
-## 🌐 Open Source
+## 📌 Selected Contributions
 
-My current open-source work is primarily around the **Meshery ecosystem**.
-
-I'm particularly interested in:
-
-`Concurrency` • `Lifecycle Handling` • `Failure Paths` • `Validation` • `Testing` • `Reliability`
+| Area             | Focus                                                |
+| ---------------- | ---------------------------------------------------- |
+| 🔄 Lifecycle     | Connection state machines & asynchronous transitions |
+| 🧵 Concurrency   | Cancellation, shared state & event handling          |
+| 🛡️ Validation   | Error codes, API validation & edge cases             |
+| 📐 Schemas       | Recursive validation of nested resources             |
+| 🛠️ CLI          | Model-based filtering in `mesheryctl`                |
+| 🧪 Testing       | Regression & failure-path testing                    |
+| 📚 Documentation | Cloud-native contributor documentation               |
 
 ---
 
-## 📌 Selected Contributions
+## 💼 Experience
 
-| Area             | Work                                                          |
-| ---------------- | ------------------------------------------------------------- |
-| 🔄 Lifecycle     | Connection state-machine and asynchronous transition handling |
-| 🧵 Concurrency   | Cancellation, shared state and event handling                 |
-| 🛡️ Validation   | Error-code and API validation                                 |
-| 📐 Schemas       | Recursive validation of nested resources                      |
-| 🛠️ CLI          | Model-based filtering in mesheryctl                           |
-| 🧪 Testing       | Regression and failure-path testing                           |
-| 📚 Documentation | Cloud-native Connection contributor guide                     |
+### CNCF Meshery — Open Source Contributor
+
+Contributing across **Meshery Server, mesheryctl, meshkit, and schemas**, with a focus on backend behavior, reliability, testing, and debugging.
+
+### ElevateLabs — DevOps Engineer Intern
+
+Worked with **Docker and GitHub Actions** on containerization and CI/CD workflows.
+
+### IBM — Cloud Computing Virtual Internship
+
+Worked through practical exercises involving **cloud infrastructure and application deployment**.
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Go
+ ├── Backend development
+ ├── Concurrency
+ ├── Testing
+ └── Large codebases
+
+Cloud Native
+ ├── Kubernetes
+ ├── Containers
+ ├── Infrastructure tooling
+ └── Distributed systems
+
+Open Source
+ ├── Code review
+ ├── Architecture
+ ├── Debugging
+ └── Collaborative development
+```
 
 ---
 
 ## 📊 GitHub Activity
 
-📈 Last 60 Days
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&days=60&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity%20%E2%80%94%20Last%2060%20Days" alt="GitHub activity over the last 60 days" /> </p>
-
-### 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&days=60&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity%20%E2%80%94%20Last%2060%20Days"
+    alt="GitHub activity over the last 60 days"
+  />
+</p>
 
 <p align="center">
   <img
-    [src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight"](https://github-readme-activity-graph.vercel.app/graph?username=SuryanshGarg04&days=60&theme=github-compact&hide_border=true&area=true)
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuryanshGarg04&theme=tokyonight"
     height="180"
+    alt="GitHub statistics"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuryanshGarg04&theme=tokyonight"
     height="180"
+    alt="Repository languages"
   />
 </p>
 
-
 ---
 
-## 🤡 Developer Life
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420">
-</p>
-
-> **"It works on my machine."**
-
-The universal debugging strategy.
-
----
-
-## 🐛 Debugging at 2 AM
+## 🐛 Debugging
 
 ```text
 "This should be a quick fix."
 
         ↓
 
-Open the code
-
-        ↓
-
-Find a function
+Find the function
 
         ↓
 
@@ -201,101 +197,32 @@ Find the bug
 "Ah."
 ```
 
+---
+
+## 🤡 Developer Life
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="It works on my machine" />
 </p>
 
----
-
-## 💀 The Development Cycle
-
-```text
-Write code
-    ↓
-Run tests
-    ↓
-Tests fail
-    ↓
-Fix code
-    ↓
-Tests pass
-    ↓
-Push
-    ↓
-CI fails
-    ↓
-Fix CI
-    ↓
-Reviewer finds something else
-    ↓
-Fix that
-    ↓
-Merge 🎉
-```
+> **"It works on my machine."**
+> The universal debugging strategy.
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 What I'm Looking For
 
-### 🐹 Go
+I'm open to opportunities in:
 
-* Backend development
-* Concurrency
-* Large codebases
-* Testing
+`Go Backend` • `Backend Engineering` • `Cloud Native` • `DevOps` • `Platform Engineering` • `Open Source`
 
-### ☸️ Cloud Native
+Especially interested in teams working with:
 
-* Kubernetes
-* Containers
-* Cloud-native systems
-* Infrastructure tooling
-
-### 🌐 Open Source
-
-* Code review
-* Debugging
-* Testing
-* Architecture
-* Working across repositories
+**Go • Kubernetes • Cloud Infrastructure • Developer Tooling • Open Source**
 
 ---
 
-## 💻 Experience
-
-### CNCF Meshery — Open Source Contributor
-
-Contributing across **Meshery Server, mesheryctl, meshkit and schemas**.
-
-### ElevateLabs — DevOps Engineer Intern
-
-Worked with **Docker and GitHub Actions** on containerization and CI/CD projects.
-
-### IBM — Cloud Computing Virtual Internship
-
-Worked through practical cloud infrastructure and application deployment exercises.
-
----
-
-## 🎯 Current Direction
-
-```text
-Go
- +
-Kubernetes
- +
-Cloud Native
- +
-Open Source
-        ↓
-   Keep Building
-```
-
-I'm working toward becoming a stronger **Go + Cloud Native engineer** while continuing to contribute to open source.
-
----
-
-## 🤝 Let's Connect
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/SuryanshGarg04">
@@ -309,5 +236,5 @@ I'm working toward becoming a stronger **Go + Cloud Native engineer** while cont
 ---
 
 <p align="center">
-  <i>Still learning. Still debugging. Still contributing. 🚀</i>
+  <i>Building. Debugging. Contributing. 🚀</i>
 </p>
